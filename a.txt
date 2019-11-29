@@ -2,3 +2,4 @@ init
 sec
 miss-passcode
 sec-miss-pwd
+thir-miss-pwd
